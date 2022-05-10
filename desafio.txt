@@ -1,0 +1,12 @@
+Arquivo criado para demonstar que os conseitos de repositorio remoto e commits estao
+bem claro para mim, estamos trabalhando na Brach main, onde ustilizamos
+
+git pull origin main -> para baixar atualizações
+
+git status -> para verificar as alterações feitas no reposotirio local
+
+git add * para adicionar as alterações feitas local.
+
+git commit -m "para comitar essas alterações"
+
+git push origin main -> para subir essas alterações para o repositorio remoto no github
